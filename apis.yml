@@ -43,7 +43,7 @@ x-notes: >-
   CloudFront but could not complete a TLS handshake from the probe environment,
   so /.well-known/* could not be verified this round. Only real identity facts
   were wired.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
